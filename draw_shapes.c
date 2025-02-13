@@ -26,3 +26,6 @@ void print_triangle(int leftCol, int size)
   }
 }
 
+
+
+
